@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
-import os
-import re
-import requests
+import os, re, requests
 
 
 def send_request(host):
