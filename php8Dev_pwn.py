@@ -30,7 +30,6 @@ def RCE(CMD):
         except KeyboardInterrupt:
             exit
 
-
 def main():
     host = "" #host
     send_request(host)
